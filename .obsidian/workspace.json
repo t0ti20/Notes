@@ -11,10 +11,14 @@
             "id": "24d6c9fdaa7c9f1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Security/Scan/1-  Recon/Passive Recon Tools.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Passive Recon Tools"
             }
           }
         ]
@@ -178,6 +182,13 @@
   },
   "active": "24d6c9fdaa7c9f1b",
   "lastOpenFiles": [
+    "Other/Regular Expressions.md",
+    "Security/Scan/1-  Recon/Passive Recon Tools.md",
+    "Security/Scan/1-  Recon",
+    "Security/Scan",
+    "REGULAR EXPRESSIONS.md",
+    "Other/REGULAR EXPRESSIONS.md",
+    "Other",
     "Android/AOSP_Notes.md",
     "Android/Raspberry_Pi_5/Build_AOSP.md",
     "Android/README.md",
@@ -195,7 +206,6 @@
     "Security/Fuzzing/Automated Directory Fuzzing.md",
     "Security/Fuzzing",
     "Security/SQL-Injection/SQL Injection.md",
-    "Security/SQL-Injection",
-    "Security"
+    "Security/SQL-Injection"
   ]
 }
